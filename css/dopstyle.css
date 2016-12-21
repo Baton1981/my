@@ -1,0 +1,17 @@
+.head-block{
+    height:150px;
+    background:url(../img/h1.png)left center no-repeat;
+}
+.top-menu{
+    height: 30px;
+    background:#eacce9;
+}
+.top-menu ul{
+    padding-left:0;
+    margin-bottom:0;
+}
+.top-menu li{
+    display:inline-block;
+    margin-left:10px;
+    padding:3px 10px;
+}
